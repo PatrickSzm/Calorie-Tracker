@@ -31,9 +31,6 @@ This section is built with a focus on usability, responsiveness, and a seamless 
   - Optional profile image upload during registration.  
 
 ---
-
-## Coding Style and Conventions
-
 ### Naming Conventions:
 - **Classes/Structs/Enums**: PascalCase (e.g., `CommentService`, `OrderViewModel`).
 - **Interfaces**: Prefix with `I` and use PascalCase (e.g., `IUserService`).
